@@ -1,1 +1,1 @@
-## Basic code in java to identify attriutes between classes: Professor/Subject/Student
+## Basic code in java to identify attributes between classes: Professor/Subject/Student
